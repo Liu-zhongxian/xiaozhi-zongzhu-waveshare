@@ -1,0 +1,352 @@
+{
+  "neutral": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 70398,
+    "source_size": [
+      1234,
+      1274
+    ]
+  },
+  "happy": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 55103,
+    "source_size": [
+      1241,
+      1268
+    ]
+  },
+  "laughing": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 52215,
+    "source_size": [
+      1198,
+      1313
+    ]
+  },
+  "funny": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 68048,
+    "source_size": [
+      1237,
+      1272
+    ]
+  },
+  "sad": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 66336,
+    "source_size": [
+      1225,
+      1284
+    ]
+  },
+  "angry": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 67001,
+    "source_size": [
+      1173,
+      1341
+    ]
+  },
+  "crying": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 67509,
+    "source_size": [
+      1230,
+      1278
+    ]
+  },
+  "loving": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 62094,
+    "source_size": [
+      1244,
+      1264
+    ]
+  },
+  "embarrassed": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 74453,
+    "source_size": [
+      1230,
+      1278
+    ]
+  },
+  "surprised": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 66690,
+    "source_size": [
+      1205,
+      1306
+    ]
+  },
+  "shocked": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 67425,
+    "source_size": [
+      1230,
+      1278
+    ]
+  },
+  "thinking": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 58644,
+    "source_size": [
+      1228,
+      1281
+    ]
+  },
+  "winking": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 60672,
+    "source_size": [
+      1234,
+      1274
+    ]
+  },
+  "cool": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 65033,
+    "source_size": [
+      1230,
+      1278
+    ]
+  },
+  "relaxed": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 69307,
+    "source_size": [
+      1234,
+      1275
+    ]
+  },
+  "delicious": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 61580,
+    "source_size": [
+      1237,
+      1271
+    ]
+  },
+  "kissy": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 47068,
+    "source_size": [
+      1235,
+      1274
+    ]
+  },
+  "confident": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 65885,
+    "source_size": [
+      1230,
+      1278
+    ]
+  },
+  "sleepy": {
+    "frames": 4,
+    "duration_ms": [
+      550,
+      550,
+      550,
+      550
+    ],
+    "bytes": 69464,
+    "source_size": [
+      1216,
+      1294
+    ]
+  },
+  "silly": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 69119,
+    "source_size": [
+      1242,
+      1266
+    ]
+  },
+  "confused": {
+    "frames": 4,
+    "duration_ms": [
+      240,
+      160,
+      160,
+      240
+    ],
+    "bytes": 62736,
+    "source_size": [
+      1174,
+      1340
+    ]
+  },
+  "singing": {
+    "frames": 4,
+    "duration_ms": [
+      180,
+      180,
+      180,
+      180
+    ],
+    "bytes": 62679,
+    "source_size": [
+      1240,
+      1268
+    ]
+  },
+  "dancing": {
+    "frames": 4,
+    "duration_ms": [
+      180,
+      180,
+      180,
+      180
+    ],
+    "bytes": 64367,
+    "source_size": [
+      1242,
+      1266
+    ]
+  },
+  "rapper": {
+    "frames": 4,
+    "duration_ms": [
+      180,
+      180,
+      180,
+      180
+    ],
+    "bytes": 69629,
+    "source_size": [
+      1233,
+      1276
+    ]
+  },
+  "basketball": {
+    "frames": 4,
+    "duration_ms": [
+      180,
+      180,
+      180,
+      180
+    ],
+    "bytes": 62333,
+    "source_size": [
+      1230,
+      1278
+    ]
+  }
+}

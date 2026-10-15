@@ -1,0 +1,72 @@
+{
+  "wake_tests": [
+    {
+      "case": "new_ting",
+      "detected": 1,
+      "expected": 1
+    },
+    {
+      "case": "new_slow",
+      "detected": 1,
+      "expected": 1
+    },
+    {
+      "case": "new_eddy",
+      "detected": 1,
+      "expected": 1
+    },
+    {
+      "case": "old_ting",
+      "detected": 0,
+      "expected": 0
+    },
+    {
+      "case": "old_eddy",
+      "detected": 0,
+      "expected": 0
+    },
+    {
+      "case": "ordinary",
+      "detected": 0,
+      "expected": 0
+    }
+  ],
+  "animation_states": [
+    "neutral",
+    "happy",
+    "laughing",
+    "funny",
+    "sad",
+    "angry",
+    "crying",
+    "loving",
+    "embarrassed",
+    "surprised",
+    "shocked",
+    "thinking",
+    "winking",
+    "cool",
+    "relaxed",
+    "delicious",
+    "kissy",
+    "confident",
+    "sleepy",
+    "silly",
+    "confused",
+    "singing",
+    "dancing",
+    "rapper",
+    "basketball"
+  ],
+  "performance_held": true,
+  "performance_restored": true,
+  "crash_found": false,
+  "screenshots": [
+    "board-qa-crying.jpg",
+    "board-qa-angry.jpg",
+    "board-qa-rapper.jpg",
+    "board-qa-neutral.jpg",
+    "board-qa-basketball.jpg"
+  ],
+  "speech_source": "synthetic PCM injected into on-chip recognizer; not physical microphone test"
+}

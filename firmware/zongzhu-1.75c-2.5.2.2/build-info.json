@@ -1,0 +1,16 @@
+{
+  "version": "2.5.2.2",
+  "board": "esp32-s3-touch-amoled-1.75c",
+  "app_bytes": 2953520,
+  "assets_bytes": 7183331,
+  "wake_word": "你好宗主",
+  "emotion_count": 21,
+  "performance_count": 4,
+  "build_passed": true,
+  "host_tests_passed": 110,
+  "qa_hooks_removed": true,
+  "partition_table_unchanged": true,
+  "flashed": true,
+  "hardware_validation": "6 synthetic recognition cases, 25 animation decodes and performance hold/restore passed; final microphone wake and official dialogue observed",
+  "user_acceptance": "能唤醒、有回复、会跳舞"
+}
