@@ -25,6 +25,8 @@
 
 ## 使用现成固件
 
+从 [v2.5.2.2 发布页](https://github.com/Liu-zhongxian/xiaozhi-zongzhu-waveshare/releases/tag/v2.5.2.2) 下载固件 ZIP 和 SHA-256 文件。解压后进入 `zongzhu-1.75c-2.5.2.2/`；如果克隆了整个仓库，则使用下方路径。
+
 安装 [esptool](https://github.com/espressif/esptool)，连接开发板并确定串口，在以下目录校验文件：
 
 ```sh
